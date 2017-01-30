@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="tiy.homework08:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="tiy.homework08-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="tiy.homework08:war exploded" />
+    </root>
+  </artifact>
+</component>
